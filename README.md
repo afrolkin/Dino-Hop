@@ -1,1 +1,1 @@
-Unity2d Project for an endless runner game
+Unity2d project for an endless runner game
